@@ -37,7 +37,7 @@ class _DicePageState extends State<DicePage> {
       rdn = Random().nextInt(6) + 1;
     });
   }
-//git push test 
+//git push
   @override
   Widget build(BuildContext context) {
     return Container(
